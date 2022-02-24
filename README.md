@@ -6,4 +6,4 @@ This repository is about the Agrotech project, Explainable Machine Learning and 
 
 The dataset is a private dataset and hence cannot be uploaded on the platform.
 
-To run the code, kindly update the path of the dataset into the jupyter notebook.
+To run the code, kindly update the path of the dataset into the jupyter notebook. Alternatively, If you place the dataset and the jupyter notebook in the same folder, you would not need to update the path(of dataset) in the notebook.
